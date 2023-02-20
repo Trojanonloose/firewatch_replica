@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/firewatch_replica/static/css/main.6e218d19.css",
+    "main.js": "/firewatch_replica/static/js/main.8266f4ef.js",
+    "static/media/jungle1.png": "/firewatch_replica/static/media/jungle1.5ec83d96505269c854f3.png",
+    "static/media/background.png": "/firewatch_replica/static/media/background.f8e0a3e86fb4252623af.png",
+    "static/media/jungle3.png": "/firewatch_replica/static/media/jungle3.5350abbda455914478ee.png",
+    "static/media/mountains.png": "/firewatch_replica/static/media/mountains.af6b8801f09352cf3f76.png",
+    "static/media/man_on_mountain.png": "/firewatch_replica/static/media/man_on_mountain.41b59d37a39bb0b35f75.png",
+    "static/media/jungle4.png": "/firewatch_replica/static/media/jungle4.80488612344ed2683ee6.png",
+    "static/media/jungle2.png": "/firewatch_replica/static/media/jungle2.b3f7031947988987d357.png",
+    "static/media/logo_land.png": "/firewatch_replica/static/media/logo_land.38bc453f18c7f64bebdc.png",
+    "static/media/jungle5.png": "/firewatch_replica/static/media/jungle5.6f841a2d5b2b021093df.png",
+    "index.html": "/firewatch_replica/index.html",
+    "main.6e218d19.css.map": "/firewatch_replica/static/css/main.6e218d19.css.map",
+    "main.8266f4ef.js.map": "/firewatch_replica/static/js/main.8266f4ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e218d19.css",
+    "static/js/main.8266f4ef.js"
+  ]
+}
